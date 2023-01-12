@@ -1,0 +1,101 @@
+>>>Wed Jan 11 15:16:00 2023
+
+starting worker worker0 on hds-VPCZ133GM
+detecting master on port: 3333
+>>>Wed Jan 11 15:16:00 2023
+initiated logfile at ./worker.log
+>>>Wed Jan 11 15:16:00 2023
+[ERROR] ***Runtime Error***
+in worker.c:68
+Error[2]: No such file or directory
+Warning, could not find config file at ./worker.conf. Proceeding with default values
+>>>Wed Jan 11 15:16:00 2023
+done configuring
+>>>Wed Jan 11 15:16:00 2023
+searching for maester
+>>>Wed Jan 11 15:16:08 2023
+found maester new_maester at 192.168.1.121
+>>>Wed Jan 11 15:16:08 2023
+handshaking with maester server at 192.168.1.121
+>>>Wed Jan 11 15:16:08 2023
+Successfully connected to maester server at 192.168.1.121>>>Wed Jan 11 15:17:20 2023
+Job 13322 started.
+>>>Thu Jan 12 18:40:44 2023
+
+starting worker worker0 on hds-VPCZ133GM
+detecting master on port: 3333
+>>>Thu Jan 12 18:40:44 2023
+initiated logfile at ./worker.log
+>>>Thu Jan 12 18:40:44 2023
+[ERROR] ***Runtime Error***
+in worker.c:68
+Error[2]: No such file or directory
+Warning, could not find config file at ./worker.conf. Proceeding with default values
+>>>Thu Jan 12 18:40:44 2023
+done configuring
+>>>Thu Jan 12 18:40:44 2023
+searching for maester
+>>>Thu Jan 12 18:40:46 2023
+found maester new_maester at 192.168.1.121
+>>>Thu Jan 12 18:40:46 2023
+handshaking with maester server at 192.168.1.121
+>>>Thu Jan 12 18:40:46 2023
+Successfully connected to maester server at 192.168.1.121>>>Thu Jan 12 18:41:57 2023
+
+starting worker worker1 on hds-VPCZ133GM
+detecting master on port: 3334
+>>>Thu Jan 12 18:41:57 2023
+initiated logfile at ./worker.log
+>>>Thu Jan 12 18:41:57 2023
+[ERROR] ***Runtime Error***
+in worker.c:68
+Error[2]: No such file or directory
+Warning, could not find config file at ./worker.conf. Proceeding with default values
+>>>Thu Jan 12 18:41:57 2023
+done configuring
+>>>Thu Jan 12 18:41:57 2023
+searching for maester
+>>>Thu Jan 12 18:41:58 2023
+found maester new_maester at 192.168.1.121
+>>>Thu Jan 12 18:41:58 2023
+handshaking with maester server at 192.168.1.121
+>>>Thu Jan 12 18:41:58 2023
+Successfully connected to maester server at 192.168.1.121>>>Thu Jan 12 18:42:04 2023
+
+starting worker worker2 on hds-VPCZ133GM
+detecting master on port: 3335
+>>>Thu Jan 12 18:42:04 2023
+initiated logfile at ./worker.log
+>>>Thu Jan 12 18:42:04 2023
+[ERROR] ***Runtime Error***
+in worker.c:68
+Error[2]: No such file or directory
+Warning, could not find config file at ./worker.conf. Proceeding with default values
+>>>Thu Jan 12 18:42:04 2023
+done configuring
+>>>Thu Jan 12 18:42:04 2023
+searching for maester
+>>>Thu Jan 12 18:42:06 2023
+found maester new_maester at 192.168.1.121
+>>>Thu Jan 12 18:42:06 2023
+handshaking with maester server at 192.168.1.121
+>>>Thu Jan 12 18:42:06 2023
+Successfully connected to maester server at 192.168.1.121>>>Thu Jan 12 18:43:42 2023
+Job 13322 started.
+>>>Thu Jan 12 18:46:02 2023
+Job 13323 started.
+>>>Thu Jan 12 21:49:16 2023
+[ERROR] ***Runtime Error***
+in worker.c:45
+Error[2]: No such file or directory
+Error receiving request headers from maester
+>>>Thu Jan 12 21:49:16 2023
+[ERROR] ***Runtime Error***
+in worker.c:45
+Error[4]: Interrupted system call
+Error receiving request headers from maester
+>>>Thu Jan 12 21:49:16 2023
+[ERROR] ***Runtime Error***
+in worker.c:45
+Error[10]: No child processes
+Error receiving request headers from maester

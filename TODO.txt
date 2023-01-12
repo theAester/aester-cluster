@@ -1,0 +1,2 @@
+properly handle safe termination.
+re-assign orphaned jobs

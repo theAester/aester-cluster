@@ -1,0 +1,109 @@
+>>>Wed Jan 11 15:16:08 2023
+
+starting maester new_maester on hds-VPCZ133GM
+communication port: 8569 - discover port: 8585
+>>>Wed Jan 11 15:16:08 2023
+initiated logfile at ./maester.log
+>>>Wed Jan 11 15:16:08 2023
+[ERROR] ***Runtime Error***
+in maester.c:1022
+Error[2]: No such file or directory
+Warning, could not find config file at ./maester.conf. Proceeding with default values
+>>>Wed Jan 11 15:16:08 2023
+sucessfully configured maester
+>>>Wed Jan 11 15:16:08 2023
+initialization of maester done
+>>>Wed Jan 11 15:16:08 2023
+maester starting...
+>>>Wed Jan 11 15:16:08 2023
+Accepted a worker at 2.0.170.90 on hds-VPCZ133GM
+>>>Wed Jan 11 15:16:19 2023
+Accepted a client at 2.0.219.32 on hds-VPCZ133GM for user admin
+>>>Wed Jan 11 15:16:20 2023
+[ERROR] ***Runtime Error***
+in maester.c:526
+Error[32]: Broken pipe
+Error communicating with client at 2.0.219.32 on hds-VPCZ133GM at state LIST for user admin
+>>>Wed Jan 11 15:17:17 2023
+Accepted a client at 2.0.236.32 on hds-VPCZ133GM for user admin
+>>>Wed Jan 11 15:17:18 2023
+Client at 2.0.236.32 on hds-VPCZ133GM is attempting to add a job
+>>>Wed Jan 11 15:17:20 2023
+Send job 13322 from user admin to worker worker0 (id 647) at 2.0.170.90 on hds-VPCZ133GM
+>>>Wed Jan 11 21:03:46 2023
+[ERROR] ***Runtime Error***
+in maester.c:222
+Error[0]: Success
+Error communicating with worker at 2.0.170.90 on hds-VPCZ133GM in state IDLE(read)
+>>>Wed Jan 11 21:03:46 2023
+[ERROR] ***Runtime Error***
+in maester.c:325
+Error[32]: Broken pipe
+Error safely terminating the worker at 2.0.170.90 on hds-VPCZ133GM. Erasing worker.
+>>>Wed Jan 11 21:03:47 2023
+[ERROR] ***Runtime Error***
+in maester.c:1161
+Error[9]: Bad file descriptor
+Error on reading from UDP ping socket
+>>>Wed Jan 11 21:03:47 2023
+[ERROR] ***Runtime Error***
+in maester.c:1170
+Error[9]: Bad file descriptor
+Couldnt pong worker
+>>>Thu Jan 12 18:40:06 2023
+
+starting maester new_maester on hds-VPCZ133GM
+communication port: 8569 - discover port: 8585
+>>>Thu Jan 12 18:40:06 2023
+initiated logfile at ./maester.log
+>>>Thu Jan 12 18:40:06 2023
+[ERROR] ***Runtime Error***
+in maester.c:1051
+Error[2]: No such file or directory
+Warning, could not find config file at ./maester.conf. Proceeding with default values
+>>>Thu Jan 12 18:40:06 2023
+sucessfully configured maester
+>>>Thu Jan 12 18:40:06 2023
+initialization of maester done
+>>>Thu Jan 12 18:40:06 2023
+maester starting...
+>>>Thu Jan 12 18:40:46 2023
+Accepted a worker at 2.0.194.50 on hds-VPCZ133GM
+>>>Thu Jan 12 18:41:58 2023
+Accepted a worker at 2.0.134.10 on hds-VPCZ133GM
+>>>Thu Jan 12 18:42:06 2023
+Accepted a worker at 2.0.134.24 on hds-VPCZ133GM
+>>>Thu Jan 12 18:43:39 2023
+Accepted a client at 2.0.200.74 on hds-VPCZ133GM for user admin
+>>>Thu Jan 12 18:43:40 2023
+Client at 2.0.200.74 on hds-VPCZ133GM is attempting to add a job
+>>>Thu Jan 12 18:43:42 2023
+Send job 13322 from user admin to worker worker0 (id 647) at 2.0.194.50 on hds-VPCZ133GM
+>>>Thu Jan 12 18:46:00 2023
+Accepted a client at 2.0.166.58 on hds-VPCZ133GM for user admin
+>>>Thu Jan 12 18:46:02 2023
+Client at 2.0.166.58 on hds-VPCZ133GM is attempting to add a job
+>>>Thu Jan 12 18:46:02 2023
+Send job 13323 from user admin to worker 647 at 2.0.194.50
+>>>Thu Jan 12 18:47:03 2023
+Accepted a client at 2.0.217.238 on hds-VPCZ133GM for user admin
+>>>Thu Jan 12 18:47:04 2023
+[ERROR] ***Runtime Error***
+in maester.c:483
+Error[0]: Success
+Error communicating with client at 2.0.217.238 on hds-VPCZ133GM at state IDLE for user admin
+>>>Thu Jan 12 18:47:04 2023
+[ERROR] ***Runtime Error***
+in maester.c:826
+Error[32]: Broken pipe
+Error communicating with client at 2.0.217.238 on hds-VPCZ133GM at state DISPATCH2 for user admin(inast ke bade!)
+>>>Thu Jan 12 21:49:16 2023
+[ERROR] ***Runtime Error***
+in maester.c:1190
+Error[9]: Bad file descriptor
+Error on reading from UDP ping socket
+>>>Thu Jan 12 21:49:16 2023
+[ERROR] ***Runtime Error***
+in maester.c:1199
+Error[9]: Bad file descriptor
+Couldnt pong worker
